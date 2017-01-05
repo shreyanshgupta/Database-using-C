@@ -1,0 +1,14 @@
+PHA16558    Paracetamol_Tablet_IP_500mg____________________    625000    25    500    December2015    April2018    Minopharm    none
+16SGCC00    Pantoprazole_Sodium_&_Domperidone_Capsules_____    2750000    50    1000    March2016    February2018    Synokem_Pharmaceuticals_Ltd    H
+ZTB16033    Cefixime_Tablets_IP_200mg______________________    346500    45    350    March2016    February2018    Zaneka_Healthcare_Ltd    none
+VPT40456    Vitamin_B_Complex_Tablet_______________________    1184400    30    987    May2016    April2018    Unicure_India_Ltd    none
+DLTT0278    Paracetamol_And_Diclofenac_Sodium_Tablets______    34800    20    120    February2016    January2019    Nestor_Pharmaceuticals_Ltd    H
+GT505751    Ondansetron_Orally_Disintegrating_Tablet_IP_4mg    141810    15    290    October2015    September2017    Omega_Biotech_Ltd    H
+513JH068    Sumo___________________________________________    1185000    20    1500    March2015    February2017    Alkem_Laboratories_Ltd    H
+BDT03095    Bisacodyl_Gastro_Resistant_Tablets_IP_5mg______    84456    10    135    November2015    October2018    Unicure_India_Ltd    none
+T5208469    Metronidazole_Tablets_IP_400mg_________________    228000    50    456    June2015    May2018____    Bharat_Parenterals_Ltd    H
+FU70H608    Ofloxacin_And_Ornidazole_Tablets_______________    207680    20    472    August2016    July2018    Zim_Laboratories_Ltd    H
+FS50E502    Multivitamin_Tablets___________________________    180000    40    125    May2015    April2017    Zim_Laboratories_Ltd    none
+04OL8602    Azithromycin_Tablets_IP_500mg__________________    22815    10    135    July2016    June2018    Agio_Pharmaceuticals_Ltd    H
+CEHT1012    Cetirizine_Hydrochloride_Tablets_IP_10mg_______    657720    30    783    May2016_____    April2019    Wings_Biotech    H
+KT217944    Calcium_with_Vitamin_D_Tablets_________________    414000    15    345    May2016    April2018    Kaysons_Pharma    none
